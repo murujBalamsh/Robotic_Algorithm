@@ -1,0 +1,8 @@
+initialize Mac Address
+Read Mac Address
+if Mac Address equal ten or more 
+Play The Mp3
+And Saved in the database
+If else 
+while  Mac Address is less than ten 
+Back and read Mac Address
